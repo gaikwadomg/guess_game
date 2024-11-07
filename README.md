@@ -23,3 +23,8 @@ A simple number guessing game built with Python's `tkinter` library. The game ge
 
    ```bash
    python guessing_game.py
+
+## GUI Screen 
+
+![Screenshot_20241107_10550](https://github.com/user-attachments/assets/66c42639-1145-4978-9ff0-4939557bf191)
+
