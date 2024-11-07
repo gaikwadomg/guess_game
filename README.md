@@ -28,3 +28,5 @@ A simple number guessing game built with Python's `tkinter` library. The game ge
 
 ![Screenshot_20241107_10550](https://github.com/user-attachments/assets/66c42639-1145-4978-9ff0-4939557bf191)
 
+![S2](https://github.com/gaikwadomg/guess_game/blob/main/ss%20(3).png)
+
